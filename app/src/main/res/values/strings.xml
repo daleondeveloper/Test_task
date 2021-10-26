@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Opti_test_task</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Wallet">Wallet</string>
+
+    <string name="transaction_name">Наименования сделки</string>
+    <string name="sum">Сумма</string>
+    <string name="Date">Дата</string>
+    <string name="add">Добавить</string>
+
+    <string name="title_activity_map_menu">MapMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="error_empty_name">Ведить назву</string>
+    <string name="error_empty_price">Ведить ціну</string>
+    <string name="error_empty_type">Виберіть значення з випадаючого списку</string>
+
+    <string name="user_name">Юлия /n Вермишелевская</string>
+
+</resources>
